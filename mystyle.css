@@ -1,0 +1,47 @@
+.container {
+    border: 7px solid black;
+    display:inline-flex;
+}
+
+.flex-item {
+    color: white;
+    font-size: 25px;
+    padding: 20px;
+    text-align: center;
+}
+
+.item-1 {
+    background-color: tomato;
+}
+
+.item-2 {
+    background-color: green;
+}
+
+.item-3 {
+    background-color: hotpink;
+}
+
+.item-4 {
+    background-color: blueviolet;
+}
+
+.item-5 {
+    background-color: chocolate;
+}
+
+.item-6 {
+    background-color: lawngreen;
+}
+
+.item-7 {
+    background-color: blue;
+}
+
+.item-8 {
+    background-color: red;
+}
+
+.item-9 {
+    background-color: seagreen;
+}

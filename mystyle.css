@@ -4,7 +4,7 @@ body{
 .container {
     border: 7px solid black;
     display: flex;
-    flex-wrap: wrap;
+    flex-flow: row-reverse wrap;
 }
 
 .flex-item {

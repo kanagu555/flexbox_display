@@ -1,6 +1,10 @@
+body{
+    margin: 0;
+}
 .container {
     border: 7px solid black;
-    display:inline-flex;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .flex-item {
